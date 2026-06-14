@@ -25,6 +25,9 @@
         <mxCell id="XXHUH40ck9XdLcvXamUV-17" value="保护作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XXHUH40ck9XdLcvXamUV-19" value="保护削弱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="260" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
