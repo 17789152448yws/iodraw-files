@@ -20,10 +20,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XXHUH40ck9XdLcvXamUV-1" value="PBAT进入EPS体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXHUH40ck9XdLcvXamUV-6" value="物理结构与空间维度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXHUH40ck9XdLcvXamUV-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
