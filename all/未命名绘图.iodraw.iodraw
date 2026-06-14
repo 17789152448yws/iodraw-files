@@ -22,12 +22,6 @@
         <mxCell id="XXHUH40ck9XdLcvXamUV-1" value="PBAT进入EPS体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XXHUH40ck9XdLcvXamUV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XXHUH40ck9XdLcvXamUV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XXHUH40ck9XdLcvXamUV-6" value="物理结构与空间维度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,11 +31,8 @@
             <mxPoint x="430" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXHUH40ck9XdLcvXamUV-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XXHUH40ck9XdLcvXamUV-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="XXHUH40ck9XdLcvXamUV-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
