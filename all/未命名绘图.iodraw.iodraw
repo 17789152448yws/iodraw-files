@@ -16,11 +16,14 @@
         <mxCell id="XXHUH40ck9XdLcvXamUV-6" value="物理结构与空间维度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XXHUH40ck9XdLcvXamUV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XXHUH40ck9XdLcvXamUV-11" target="XXHUH40ck9XdLcvXamUV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XXHUH40ck9XdLcvXamUV-11" value="宏观尺度：藻群体/藻团结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XXHUH40ck9XdLcvXamUV-17" value="保护作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="110" width="90" height="30" as="geometry" />
+          <mxGeometry x="510" y="130" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
