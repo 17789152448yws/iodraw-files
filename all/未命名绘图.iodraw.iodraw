@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-15" value="该实验以不同浓度的PBAT为自变量加入到微囊藻中观察细胞浓度、叶绿素以及生物量指标等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="878.2" y="420" width="220" height="60" as="geometry" />
+          <mxGeometry x="878.2" y="465" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-17" value="生长曲线/生物量指标确认“微塑料产生胁迫”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1136.4" y="390" width="230" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="1136.4" y="480" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-26" value="FTIR + 2D-FTIR-COS 确认官能团响应顺序" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1136.4" y="530" width="228.2" height="30" as="geometry" />
+          <mxGeometry x="1138.2" y="530" width="228.2" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
