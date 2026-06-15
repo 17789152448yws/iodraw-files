@@ -70,6 +70,9 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-26" value="FTIR + 2D-FTIR-COS 确认官能团响应顺序" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1138.2" y="530" width="228.2" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-30" value="PBAT 让 EPS 从均匀屏障变成异质、多孔、局部失稳结构" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
