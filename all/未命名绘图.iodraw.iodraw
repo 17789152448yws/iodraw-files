@@ -64,6 +64,9 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-23" value="EEM-PARAFAC 确认荧光组分变化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1138.2" y="490" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-26" value="FTIR + 2D-FTIR-COS 确认官能团响应顺序" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
