@@ -37,8 +37,8 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-10" value="PBAT 改变 LB-EPS 和 TB-EPS 的组分分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bqtGtn6hvweT5N7SYo5S-12" value="已有的研究表明微塑料的暴露可以显著改变微囊藻的LB-EPS和TB-EPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="470" width="210" height="60" as="geometry" />
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-12" value="已有的研究表明微塑料的暴露可以显著改变微囊藻的LB-EPS和TB-EPS.同时增强 EPS 分泌；TB-EPS 中多糖/蛋白比升高，而 LB-EPS 中多糖/蛋白比下降，且不同官能团响应顺序不同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
