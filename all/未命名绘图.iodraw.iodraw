@@ -73,11 +73,17 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-26" value="FTIR + 2D-FTIR-COS 确认官能团响应顺序" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1138.2" y="530" width="228.2" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqtGtn6hvweT5N7SYo5S-30" target="bqtGtn6hvweT5N7SYo5S-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-30" value="机制三：PBAT 让 EPS 从均匀屏障变成异质、多孔、局部失稳结构" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="650" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-32" value="PBAT 刺激 EPS 分泌，但新生成 EPS 是应激性、松散性或组成失衡的 EPS，无法恢复原有的黏弹性和屏障功能。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="640" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
