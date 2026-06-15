@@ -7,6 +7,9 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqtGtn6hvweT5N7SYo5S-1" target="bqtGtn6hvweT5N7SYo5S-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqtGtn6hvweT5N7SYo5S-1" target="bqtGtn6hvweT5N7SYo5S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-1" value="假设PBAT进入EPS后削弱EPS的保护作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="650" y="340" width="540" height="18.96" as="geometry" />
         </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-10" value="PBAT 改变 LB-EPS 和 TB-EPS 的组分分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="460" width="170" height="60" as="geometry" />
+          <mxGeometry x="430" y="490" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
