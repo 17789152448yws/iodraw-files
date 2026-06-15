@@ -58,8 +58,8 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-21" value="EPS 分级 + 多糖/蛋白定量确认“组成发生重排”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="485" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bqtGtn6hvweT5N7SYo5S-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-23" value="EEM-PARAFAC 确认荧光组分变化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="530" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
