@@ -52,11 +52,14 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqtGtn6hvweT5N7SYo5S-15" target="bqtGtn6hvweT5N7SYo5S-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqtGtn6hvweT5N7SYo5S-15" target="bqtGtn6hvweT5N7SYo5S-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-15" value="该实验以不同浓度的PBAT为自变量加入到微囊藻中观察细胞浓度、叶绿素以及生物量指标等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="878.2" y="465" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-17" value="生长曲线/生物量指标确认“微塑料产生胁迫”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="390" width="230" height="30" as="geometry" />
+          <mxGeometry x="1138.2" y="390" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bqtGtn6hvweT5N7SYo5S-21" value="EPS 分级 + 多糖/蛋白定量确认“组成发生重排”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1136.4" y="435" width="230" height="30" as="geometry" />
