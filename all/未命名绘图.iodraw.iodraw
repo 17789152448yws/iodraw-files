@@ -85,8 +85,11 @@
         <mxCell id="bqtGtn6hvweT5N7SYo5S-32" value="PBAT 刺激 EPS 分泌，但新生成 EPS 是应激性、松散性或组成失衡的 EPS，无法恢复原有的黏弹性和屏障功能。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="640" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bqtGtn6hvweT5N7SYo5S-35" value="PBAT 诱导细胞生理应激，EPS 从“保护结构”变成“应激消耗品”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-35" value="机制四：PBAT 诱导细胞生理应激，EPS 从“保护结构”变成“应激消耗品”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="780" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqtGtn6hvweT5N7SYo5S-37" value="已有聚苯乙烯微塑料研究显示，EPS 可减轻微塑料对 M. aeruginosa 生长、光合作用和氧化应激的不利影响；当 EPS 不足时，较不稳定的 1 μm PS 微塑料可直接吸附到藻细胞表面并损伤细胞壁。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="800" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
