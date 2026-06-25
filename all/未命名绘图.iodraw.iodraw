@@ -119,11 +119,13 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-57" value="制备出用于模拟pH波动的PBAT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-55">
-          <mxGeometry x="120" width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
+        <UserObject label="制备出用于模拟pH波动的PBAT" link="data:page/id,Ere_9XV_fiCX7LxBzP3f" linkTarget="_blank" id="Ou2KXWs189Wuq3OIUBNO-57">
+          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-55">
+            <mxGeometry x="120" width="170" height="40" as="geometry">
+              <mxRectangle width="170" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ou2KXWs189Wuq3OIUBNO-2" target="Ou2KXWs189Wuq3OIUBNO-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
