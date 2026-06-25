@@ -461,6 +461,9 @@
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-150" value="对于固体颗粒按照质量浓度进行添加对于滤液或小分子按照TOC进行投加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="440" width="310" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-151" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
