@@ -380,12 +380,12 @@
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-129" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-125">
           <mxGeometry y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-130" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-129">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-130" value="&lt;table class=&quot;w-fit min-w-(--thread-content-width)&quot; data-end=&quot;4438&quot; data-start=&quot;4163&quot;&gt;&lt;thead data-end=&quot;4174&quot; data-start=&quot;4163&quot;&gt;&lt;tr data-end=&quot;4174&quot; data-start=&quot;4163&quot;&gt;&lt;th class=&quot;last:pe-10&quot; data-col-size=&quot;sm&quot; data-end=&quot;4168&quot; data-start=&quot;4163&quot;&gt;指标&lt;/th&gt;&lt;th class=&quot;last:pe-10&quot; data-col-size=&quot;md&quot; data-end=&quot;4174&quot; data-start=&quot;4168&quot;&gt;解释&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody data-end=&quot;4438&quot; data-start=&quot;4185&quot;&gt;&lt;tr data-end=&quot;4249&quot; data-start=&quot;4185&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;4204&quot; data-start=&quot;4185&quot;&gt;PBAT 表面 FTIR/XPS&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-129">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-131" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-129">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-131" value="是否出现 amide I/II、多糖 C–O、—OH/—NH 等 EPS 吸附证据" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-129">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
