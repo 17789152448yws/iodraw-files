@@ -50,7 +50,7 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="原始的PBAT薄膜碎片/颗粒" link="&quot;F:\PBAT制备相关\原始PBAT的制备.docx&quot;" id="Ou2KXWs189Wuq3OIUBNO-42">
+        <UserObject label="原始的PBAT薄膜碎片/颗粒" link="&quot;F:\PBAT制备相关\原始PBAT的制备.docx&quot;" linkTarget="_blank" id="Ou2KXWs189Wuq3OIUBNO-42">
           <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-40">
             <mxGeometry x="120" width="170" height="40" as="geometry">
               <mxRectangle width="170" height="40" as="alternateBounds" />
