@@ -358,8 +358,8 @@
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-122" value="提取要求:&lt;li data-end=&quot;959&quot; data-start=&quot;938&quot; data-section-id=&quot;1g5odm3&quot;&gt;全程尽量在 &lt;strong data-end=&quot;956&quot; data-start=&quot;947&quot;&gt;4℃或冰上&lt;/strong&gt;操作。&lt;/li&gt;&lt;li data-end=&quot;982&quot; data-start=&quot;960&quot; data-section-id=&quot;75azl7&quot;&gt;每组至少设置 &lt;strong data-end=&quot;981&quot; data-start=&quot;970&quot;&gt;3个生物学重复&lt;/strong&gt;。&lt;/li&gt;&lt;li data-end=&quot;1018&quot; data-start=&quot;983&quot; data-section-id=&quot;mw6c4g&quot;&gt;记录提取前的 &lt;strong data-end=&quot;1017&quot; data-start=&quot;993&quot;&gt;OD680、细胞密度、pH、DO、电导率&lt;/strong&gt;。&lt;/li&gt;&lt;li data-end=&quot;1044&quot; data-start=&quot;1019&quot; data-section-id=&quot;106yy98&quot;&gt;所有离心管、滤膜、移液枪头尽量使用无菌耗材。&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-123">
           <mxGeometry x="489" y="60" width="120" height="425" as="geometry" />
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-124" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-124" value="取50 mL铜绿微囊藻培养液，于4℃、3000 × g离心15 min，收集上清并经0.45 μm滤膜过滤，作为S-EPS。将沉淀用0.05% NaCl溶液重悬至原体积，轻柔涡旋1 min后，于4℃、5000 × g离心15 min，收集上清作为LB-EPS。随后将沉淀再次用0.05% NaCl重悬至原体积，于60℃水浴30 min，立即冰浴冷却，并于4℃、12000 × g离心20 min，收集上清作为TB-EPS。所有EPS样品经0.45 μm滤膜过滤后，根据后续分析需求进行即时检测、-80℃分装保存或冷冻干燥保存。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1759" y="590" width="321" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
