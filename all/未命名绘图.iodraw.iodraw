@@ -336,7 +336,7 @@
             <mxRectangle width="66" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-118" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-116">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-118" value="靠近细胞表面的稳定保护层" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-116">
           <mxGeometry x="66" width="67" height="40" as="geometry">
             <mxRectangle width="67" height="40" as="alternateBounds" />
           </mxGeometry>
