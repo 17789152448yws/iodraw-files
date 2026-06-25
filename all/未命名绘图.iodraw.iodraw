@@ -350,10 +350,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-121" value="相同生长期的铜绿微囊藻培养液，建议使用&lt;strong data-end=&quot;916&quot; data-start=&quot;903&quot;&gt;对数后期或稳定前期&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="525" width="559" height="60" as="geometry" />
+          <mxGeometry x="1151" y="525" width="609" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-122" value="提取要求:&lt;li data-end=&quot;959&quot; data-start=&quot;938&quot; data-section-id=&quot;1g5odm3&quot;&gt;全程尽量在 &lt;strong data-end=&quot;956&quot; data-start=&quot;947&quot;&gt;4℃或冰上&lt;/strong&gt;操作。&lt;/li&gt;&lt;li data-end=&quot;982&quot; data-start=&quot;960&quot; data-section-id=&quot;75azl7&quot;&gt;每组至少设置 &lt;strong data-end=&quot;981&quot; data-start=&quot;970&quot;&gt;3个生物学重复&lt;/strong&gt;。&lt;/li&gt;&lt;li data-end=&quot;1018&quot; data-start=&quot;983&quot; data-section-id=&quot;mw6c4g&quot;&gt;记录提取前的 &lt;strong data-end=&quot;1017&quot; data-start=&quot;993&quot;&gt;OD680、细胞密度、pH、DO、电导率&lt;/strong&gt;。&lt;/li&gt;&lt;li data-end=&quot;1044&quot; data-start=&quot;1019&quot; data-section-id=&quot;106yy98&quot;&gt;所有离心管、滤膜、移液枪头尽量使用无菌耗材。&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="585" width="120" height="235" as="geometry" />
+          <mxGeometry x="1640" y="585" width="120" height="425" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
