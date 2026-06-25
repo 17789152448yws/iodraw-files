@@ -102,7 +102,7 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-54" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-52">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-54" value="PBAT碱解后的效应是不是主要有小分子水解产物造成的?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-52">
           <mxGeometry x="120" width="170" height="40" as="geometry">
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
