@@ -14,7 +14,7 @@
           <mxGeometry x="294" y="240" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-33" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="290" height="340" as="geometry" />
+          <mxGeometry x="480" y="80" width="290" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-33">
           <mxGeometry width="290" height="40" as="geometry" />
@@ -50,7 +50,7 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="原始的PBAT薄膜碎片/颗粒" link="&quot;F:\PBAT制备相关\原始PBAT的制备.docx&quot;" linkTarget="_blank" id="Ou2KXWs189Wuq3OIUBNO-42">
+        <UserObject label="原始的PBAT薄膜碎片/颗粒" linkTarget="_blank" id="Ou2KXWs189Wuq3OIUBNO-42">
           <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-40">
             <mxGeometry x="120" width="170" height="40" as="geometry">
               <mxRectangle width="170" height="40" as="alternateBounds" />
@@ -122,6 +122,21 @@
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-33">
+          <mxGeometry y="340" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-63" value="原始PBAT颗粒" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-62">
+          <mxGeometry width="120" height="40" as="geometry">
+            <mxRectangle width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="原始的PBAT薄膜碎片/颗粒" linkTarget="_blank" id="Ou2KXWs189Wuq3OIUBNO-64">
+          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-62">
+            <mxGeometry x="120" width="170" height="40" as="geometry">
+              <mxRectangle width="170" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ou2KXWs189Wuq3OIUBNO-2" target="Ou2KXWs189Wuq3OIUBNO-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
