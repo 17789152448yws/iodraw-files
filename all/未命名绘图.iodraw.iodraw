@@ -58,7 +58,7 @@
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-43" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-33">
           <mxGeometry y="120" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-44" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-43">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-44" value="碱解PBAT母液" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-43">
           <mxGeometry width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -122,11 +122,6 @@
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ou2KXWs189Wuq3OIUBNO-2" target="Ou2KXWs189Wuq3OIUBNO-46">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-60" value="碱解PBAT母液" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="170" width="120" height="40" as="geometry">
-            <mxRectangle width="120" height="40" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
