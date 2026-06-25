@@ -142,101 +142,101 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-68" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="480" y="470" width="550" height="509" as="geometry" />
+          <mxGeometry x="480" y="470" width="550" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry width="550" height="30" as="geometry" />
+          <mxGeometry width="550" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-70" value="组别" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-69">
-          <mxGeometry width="260" height="30" as="geometry">
-            <mxRectangle width="260" height="30" as="alternateBounds" />
+          <mxGeometry width="260" height="31" as="geometry">
+            <mxRectangle width="260" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-71" value="目的" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-69">
-          <mxGeometry x="260" width="290" height="30" as="geometry">
-            <mxRectangle width="290" height="30" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="31" as="geometry">
+            <mxRectangle width="290" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-72" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="30" width="550" height="72" as="geometry" />
+          <mxGeometry y="31" width="550" height="73" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-73" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + S-EPS&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-72">
-          <mxGeometry width="260" height="72" as="geometry">
-            <mxRectangle width="260" height="72" as="alternateBounds" />
+          <mxGeometry width="260" height="73" as="geometry">
+            <mxRectangle width="260" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-74" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&#xa;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;看溶解&lt;/font&gt; EPS 是否优先吸附&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-72">
-          <mxGeometry x="260" width="290" height="72" as="geometry">
-            <mxRectangle width="290" height="72" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="73" as="geometry">
+            <mxRectangle width="290" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-75" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="102" width="550" height="40" as="geometry" />
+          <mxGeometry y="104" width="550" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-76" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + LB-EPS&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-75">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+          <mxGeometry width="260" height="41" as="geometry">
+            <mxRectangle width="260" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-77" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;看外层软界面是否截留&lt;/font&gt; PBAT&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-75">
-          <mxGeometry x="260" width="290" height="40" as="geometry">
-            <mxRectangle width="290" height="40" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="41" as="geometry">
+            <mxRectangle width="290" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="142" width="550" height="41" as="geometry" />
+          <mxGeometry y="145" width="550" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-79" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + TB-EPS&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-78">
-          <mxGeometry width="260" height="41" as="geometry">
-            <mxRectangle width="260" height="41" as="alternateBounds" />
+          <mxGeometry width="260" height="42" as="geometry">
+            <mxRectangle width="260" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-80" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;看&lt;/font&gt; PBAT 是否能影响内层保护层&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-78">
-          <mxGeometry x="260" width="290" height="41" as="geometry">
-            <mxRectangle width="290" height="41" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="42" as="geometry">
+            <mxRectangle width="290" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="183" width="550" height="41" as="geometry" />
+          <mxGeometry y="187" width="550" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-82" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + 去蛋白 EPS&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-81">
-          <mxGeometry width="260" height="41" as="geometry">
-            <mxRectangle width="260" height="41" as="alternateBounds" />
+          <mxGeometry width="260" height="42" as="geometry">
+            <mxRectangle width="260" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-83" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;判断蛋白贡献&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-81">
-          <mxGeometry x="260" width="290" height="41" as="geometry">
-            <mxRectangle width="290" height="41" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="42" as="geometry">
+            <mxRectangle width="290" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="224" width="550" height="41" as="geometry" />
+          <mxGeometry y="229" width="550" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-85" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + 去多糖 EPS&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-84">
-          <mxGeometry width="260" height="41" as="geometry">
-            <mxRectangle width="260" height="41" as="alternateBounds" />
+          <mxGeometry width="260" height="42" as="geometry">
+            <mxRectangle width="260" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-86" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;判断多糖贡献&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-84">
-          <mxGeometry x="260" width="290" height="41" as="geometry">
-            <mxRectangle width="290" height="41" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="42" as="geometry">
+            <mxRectangle width="290" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="265" width="550" height="41" as="geometry" />
+          <mxGeometry y="271" width="550" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-88" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + EPS + EDTA&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-87">
-          <mxGeometry width="260" height="41" as="geometry">
-            <mxRectangle width="260" height="41" as="alternateBounds" />
+          <mxGeometry width="260" height="42" as="geometry">
+            <mxRectangle width="260" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-89" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;判断&lt;/font&gt; Ca²⁺/Mg²⁺桥联贡献&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-87">
-          <mxGeometry x="260" width="290" height="41" as="geometry">
-            <mxRectangle width="290" height="41" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="42" as="geometry">
+            <mxRectangle width="290" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-90" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="306" width="550" height="41" as="geometry" />
+          <mxGeometry y="313" width="550" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-91" value="&lt;table style=&quot;mso-cellspacing:1.5000pt;width:459.1500pt;margin-left:3.1500pt;&lt;br/&gt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;&quot; cellspacing=&quot;3&quot; border=&quot;0&quot; class=&quot;MsoNormalTable&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;border-right:none;&lt;br/&gt;border-top:none;border-bottom:none;&quot; valign=&quot;center&quot;&gt;&lt;p style=&quot;mso-pagination:widow-orphan;text-align:left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + EPS + Ca²⁺/Mg²⁺回补&lt;/span&gt;&lt;span style=&quot;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-90">
           <mxGeometry width="260" height="41" as="geometry">
@@ -249,55 +249,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="347" width="550" height="41" as="geometry" />
+          <mxGeometry y="354" width="550" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-94" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + EPS + 蛋白酶&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-93">
-          <mxGeometry width="260" height="41" as="geometry">
-            <mxRectangle width="260" height="41" as="alternateBounds" />
+          <mxGeometry width="260" height="42" as="geometry">
+            <mxRectangle width="260" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-95" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;验证蛋白样组分是否关键&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-93">
-          <mxGeometry x="260" width="290" height="41" as="geometry">
-            <mxRectangle width="290" height="41" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="42" as="geometry">
+            <mxRectangle width="290" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-96" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="388" width="550" height="41" as="geometry" />
+          <mxGeometry y="396" width="550" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-97" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;PBAT + EPS + 多糖酶&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-96">
+          <mxGeometry width="260" height="42" as="geometry">
+            <mxRectangle width="260" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-98" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;验证多糖网络是否关键&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-96">
+          <mxGeometry x="260" width="290" height="42" as="geometry">
+            <mxRectangle width="290" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-153" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
+          <mxGeometry y="438" width="550" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-154" value="EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-153">
           <mxGeometry width="260" height="41" as="geometry">
             <mxRectangle width="260" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-98" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:0.0000pt;&quot;&gt;验证多糖网络是否关键&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-96">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-155" value="EPS自身变化对照" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-153">
           <mxGeometry x="260" width="290" height="41" as="geometry">
             <mxRectangle width="290" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-153" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="429" width="550" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-154" value="EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-153">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-155" value="EPS自身变化对照" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-153">
-          <mxGeometry x="260" width="290" height="40" as="geometry">
-            <mxRectangle width="290" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-156" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-68">
-          <mxGeometry y="469" width="550" height="40" as="geometry" />
+          <mxGeometry y="479" width="550" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-157" value="PBAT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-156">
-          <mxGeometry width="260" height="40" as="geometry">
-            <mxRectangle width="260" height="40" as="alternateBounds" />
+          <mxGeometry width="260" height="41" as="geometry">
+            <mxRectangle width="260" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-158" value="PBAT自身变化对照" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-156">
-          <mxGeometry x="260" width="290" height="40" as="geometry">
-            <mxRectangle width="290" height="40" as="alternateBounds" />
+          <mxGeometry x="260" width="290" height="41" as="geometry">
+            <mxRectangle width="290" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-123" value="" style="group" vertex="1" connectable="0" parent="1">
