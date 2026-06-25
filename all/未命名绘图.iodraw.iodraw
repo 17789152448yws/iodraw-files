@@ -275,7 +275,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-103" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="585" width="439" height="280" as="geometry" />
+          <mxGeometry x="1151" y="585" width="439" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-104" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-103">
           <mxGeometry width="439" height="40" as="geometry" />
@@ -314,25 +314,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-112" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-103">
-          <mxGeometry y="185" width="439" height="40" as="geometry" />
+          <mxGeometry y="185" width="439" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-113" value="LB-EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-112">
-          <mxGeometry width="66" height="40" as="geometry">
-            <mxRectangle width="66" height="40" as="alternateBounds" />
+          <mxGeometry width="66" height="120" as="geometry">
+            <mxRectangle width="66" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-114" value="外层动态软界面,最优先接触PBAT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-112">
-          <mxGeometry x="66" width="123" height="40" as="geometry">
-            <mxRectangle width="123" height="40" as="alternateBounds" />
+          <mxGeometry x="66" width="123" height="120" as="geometry">
+            <mxRectangle width="123" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-115" value="&lt;li data-end=&quot;1510&quot; data-start=&quot;1462&quot; data-section-id=&quot;1pmkww8&quot;&gt;将上一步得到的藻细胞沉淀加入 &lt;strong data-end=&quot;1496&quot; data-start=&quot;1480&quot;&gt;0.05% NaCl溶液&lt;/strong&gt;，补回原体积，即50 mL。&lt;/li&gt;&lt;li data-end=&quot;1543&quot; data-start=&quot;1511&quot; data-section-id=&quot;128x39h&quot;&gt;轻轻吹打或低速涡旋 &lt;strong data-end=&quot;1535&quot; data-start=&quot;1524&quot;&gt;30–60 s&lt;/strong&gt;，不要强烈振荡。&lt;br&gt;&lt;/li&gt;&lt;li data-end=&quot;1581&quot; data-start=&quot;1544&quot; data-section-id=&quot;zeofon&quot;&gt;4℃，&lt;strong data-end=&quot;1580&quot; data-start=&quot;1550&quot;&gt;4000–5000 × g 离心 10–15 min&lt;/strong&gt;。&lt;/li&gt;&lt;li data-end=&quot;1590&quot; data-start=&quot;1582&quot; data-section-id=&quot;wtrioy&quot;&gt;收集上清。&lt;/li&gt;&lt;li data-end=&quot;1620&quot; data-start=&quot;1591&quot; data-section-id=&quot;f0f62v&quot;&gt;0.45 μm滤膜过滤，得到 &lt;strong data-end=&quot;1619&quot; data-start=&quot;1609&quot;&gt;LB-EPS&lt;/strong&gt;。&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-112">
-          <mxGeometry x="189" width="250" height="40" as="geometry">
-            <mxRectangle width="250" height="40" as="alternateBounds" />
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-115" value="&lt;li data-end=&quot;1510&quot; data-start=&quot;1462&quot; data-section-id=&quot;1pmkww8&quot;&gt;将上一步得到的藻细胞沉淀加入 &lt;strong data-end=&quot;1496&quot; data-start=&quot;1480&quot;&gt;0.05% NaCl溶液&lt;/strong&gt;，补回原体积，即50 mL。&lt;/li&gt;&lt;li data-end=&quot;1543&quot; data-start=&quot;1511&quot; data-section-id=&quot;128x39h&quot;&gt;轻轻吹打或低速涡旋 &lt;strong data-end=&quot;1535&quot; data-start=&quot;1524&quot;&gt;30–60 s&lt;/strong&gt;，不要强烈振荡。&lt;br&gt;&lt;/li&gt;&lt;li data-end=&quot;1581&quot; data-start=&quot;1544&quot; data-section-id=&quot;zeofon&quot;&gt;4℃，&lt;strong data-end=&quot;1580&quot; data-start=&quot;1550&quot;&gt;4000–5000 × g 离心 10–15 min&lt;/strong&gt;。&lt;/li&gt;&lt;li data-end=&quot;1590&quot; data-start=&quot;1582&quot; data-section-id=&quot;wtrioy&quot;&gt;收集上清。&lt;/li&gt;&lt;li data-end=&quot;1620&quot; data-start=&quot;1591&quot; data-section-id=&quot;f0f62v&quot;&gt;0.45 μm滤膜过滤，得到 &lt;strong data-end=&quot;1619&quot; data-start=&quot;1609&quot;&gt;LB-EPS&lt;/strong&gt;。&lt;/li&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-112">
+          <mxGeometry x="189" width="250" height="120" as="geometry">
+            <mxRectangle width="250" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-116" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-103">
-          <mxGeometry y="225" width="439" height="55" as="geometry" />
+          <mxGeometry y="305" width="439" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-117" value="TB-EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-116">
           <mxGeometry width="66" height="55" as="geometry">
