@@ -65,11 +65,13 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-45" value="证明碱解的PBAT整体是否具有生物/界面效应" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-43">
-          <mxGeometry x="120" width="170" height="40" as="geometry">
-            <mxRectangle width="170" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
+        <UserObject label="证明碱解的PBAT整体是否具有生物/界面效应" link="&quot;F:\PBAT制备相关\碱解PBAT.docx&quot;" id="Ou2KXWs189Wuq3OIUBNO-45">
+          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-43">
+            <mxGeometry x="120" width="170" height="40" as="geometry">
+              <mxRectangle width="170" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-46" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-33">
           <mxGeometry y="160" width="290" height="60" as="geometry" />
         </mxCell>
