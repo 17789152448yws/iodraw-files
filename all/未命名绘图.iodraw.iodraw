@@ -14,7 +14,7 @@
           <mxGeometry x="294" y="240" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-33" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="480" y="90" width="120" height="320" as="geometry" />
+          <mxGeometry x="520" y="100" width="120" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-33">
           <mxGeometry width="120" height="40" as="geometry" />
@@ -37,7 +37,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-37">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-39" value="用于对照" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-37">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -45,7 +45,7 @@
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-33">
           <mxGeometry y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-41" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-40">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-41" value="碱解PBAT母液" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-40">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
