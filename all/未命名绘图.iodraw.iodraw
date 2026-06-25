@@ -349,7 +349,10 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-121" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-121" value="相同生长期的铜绿微囊藻培养液，建议使用&lt;strong data-end=&quot;916&quot; data-start=&quot;903&quot;&gt;对数后期或稳定前期&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="525" width="309" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
