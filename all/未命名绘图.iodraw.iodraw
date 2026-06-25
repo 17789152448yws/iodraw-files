@@ -89,7 +89,7 @@
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ou2KXWs189Wuq3OIUBNO-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-49">
+        <mxCell id="Ou2KXWs189Wuq3OIUBNO-51" value="用于后续实验的PBAT母液本身有没有影响EPS和微囊藻?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ou2KXWs189Wuq3OIUBNO-49">
           <mxGeometry x="120" width="170" height="40" as="geometry">
             <mxRectangle width="170" height="40" as="alternateBounds" />
           </mxGeometry>
