@@ -125,11 +125,6 @@
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ou2KXWs189Wuq3OIUBNO-2" target="Ou2KXWs189Wuq3OIUBNO-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&quot;F:\PBAT制备相关\原始PBAT的制备.docx&quot;" link="&quot;F:\PBAT制备相关\原始PBAT的制备.docx&quot;" id="Ou2KXWs189Wuq3OIUBNO-65">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="640" y="70" width="260" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
