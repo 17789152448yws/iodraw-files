@@ -597,7 +597,10 @@
           <mxGeometry x="660" y="2010" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-19" value="正常藻+原始颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2050" width="120" height="20" as="geometry" />
+          <mxGeometry x="660" y="2060" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
