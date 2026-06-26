@@ -286,8 +286,8 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-56" value="原始PBAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-58" value="粒径（DLS）、形貌（SEM）、Zeta（Zeta电位仪）、FTIR（ATR-FTIR）、接触角或疏水性（接触角仪）、TOC背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="450" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
