@@ -7,8 +7,10 @@
         <mxCell id="XKasdyiVz5NgMn03z-30-3" value="铜绿微囊藻昼夜 pH 曲线测定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="186" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XKasdyiVz5NgMn03z-30-39" target="XKasdyiVz5NgMn03z-30-54">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XKasdyiVz5NgMn03z-30-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XKasdyiVz5NgMn03z-30-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="206" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="250" y="126" width="200" height="160" as="geometry" />
@@ -54,9 +56,6 @@
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XKasdyiVz5NgMn03z-30-3" target="XKasdyiVz5NgMn03z-30-44">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="510" y="166" width="74" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
