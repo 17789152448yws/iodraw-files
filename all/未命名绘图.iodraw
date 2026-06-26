@@ -274,12 +274,6 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-43" value="PBAT类型制备及表征" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="620" y="380" width="390" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;原始PBAT" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="E_J0uz-8hi5Pzh0kbOhq-43">
-          <mxGeometry y="26" width="390" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-47" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="730" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
