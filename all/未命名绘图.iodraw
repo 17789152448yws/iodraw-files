@@ -530,10 +530,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-49" value="关键组合机制验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1710" width="120" height="30" as="geometry" />
+          <mxGeometry x="290" y="1770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8Fyidec5uRJs6gt0CTj-50" target="g8Fyidec5uRJs6gt0CTj-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-50" value="根据前两个过程筛选出用于机制组研究的PBAT类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1695" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
