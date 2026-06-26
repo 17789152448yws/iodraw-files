@@ -561,7 +561,10 @@
           <mxGeometry x="480" y="1890" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-6" value="原始颗粒对照组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="1840" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
