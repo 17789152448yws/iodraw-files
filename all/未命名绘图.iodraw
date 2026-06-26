@@ -271,8 +271,8 @@
             <mxRectangle width="260" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="530" y="470" width="120" height="230" as="geometry" />
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-27" value="&lt;div&gt;PBAT 薄膜&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;剪碎&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;液氮冷冻脆化&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;冷冻研磨 / 机械研磨&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;筛分或沉降分级&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;Raw-PBAT fragments&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="530" y="470" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
