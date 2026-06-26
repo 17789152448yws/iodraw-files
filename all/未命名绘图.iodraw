@@ -110,12 +110,12 @@
         <mxCell id="XKasdyiVz5NgMn03z-30-73" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-56">
           <mxGeometry y="213" width="180" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-74" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-73">
+        <mxCell id="XKasdyiVz5NgMn03z-30-74" value="&lt;p&gt;同步记录&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-73">
           <mxGeometry width="90" height="53" as="geometry">
             <mxRectangle width="90" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-75" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-73">
+        <mxCell id="XKasdyiVz5NgMn03z-30-75" value="&lt;p&gt;OD680、细胞密度、温度、电导率、DO，如果有 DO 仪&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-73">
           <mxGeometry x="90" width="90" height="53" as="geometry">
             <mxRectangle width="90" height="53" as="alternateBounds" />
           </mxGeometry>
