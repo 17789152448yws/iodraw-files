@@ -566,8 +566,8 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-7" value="核心主线pH波动组（固/液）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1880" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1950" width="120" height="60" as="geometry" />
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-8" value="强水解参照组（碱解中筛选的组分）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1950" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
