@@ -53,71 +53,71 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-56" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="250" height="340" as="geometry" />
+          <mxGeometry x="560" y="120" width="300" height="373" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-56">
-          <mxGeometry width="250" height="68" as="geometry" />
+          <mxGeometry width="300" height="78" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-58" value="项目" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-57">
-          <mxGeometry width="125" height="68" as="geometry">
-            <mxRectangle width="125" height="68" as="alternateBounds" />
+          <mxGeometry width="150" height="78" as="geometry">
+            <mxRectangle width="150" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-59" value="设置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-57">
-          <mxGeometry x="125" width="125" height="68" as="geometry">
-            <mxRectangle width="125" height="68" as="alternateBounds" />
+          <mxGeometry x="150" width="150" height="78" as="geometry">
+            <mxRectangle width="150" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-56">
-          <mxGeometry y="68" width="250" height="69" as="geometry" />
+          <mxGeometry y="78" width="300" height="62" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-62" value="&lt;p&gt;光暗周期&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-61">
-          <mxGeometry width="125" height="69" as="geometry">
-            <mxRectangle width="125" height="69" as="alternateBounds" />
+          <mxGeometry width="150" height="62" as="geometry">
+            <mxRectangle width="150" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-63" value="&lt;p&gt;12 h 光 / 12 h 暗&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-61">
-          <mxGeometry x="125" width="125" height="69" as="geometry">
-            <mxRectangle width="125" height="69" as="alternateBounds" />
+          <mxGeometry x="150" width="150" height="62" as="geometry">
+            <mxRectangle width="150" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-65" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-56">
-          <mxGeometry y="137" width="250" height="67" as="geometry" />
+          <mxGeometry y="140" width="300" height="77" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-66" value="&lt;p&gt;测量周期&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-65">
-          <mxGeometry width="125" height="67" as="geometry">
-            <mxRectangle width="125" height="67" as="alternateBounds" />
+          <mxGeometry width="150" height="77" as="geometry">
+            <mxRectangle width="150" height="77" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-67" value="&lt;p&gt;连续 2–3 个昼夜&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-65">
-          <mxGeometry x="125" width="125" height="67" as="geometry">
-            <mxRectangle width="125" height="67" as="alternateBounds" />
+          <mxGeometry x="150" width="150" height="77" as="geometry">
+            <mxRectangle width="150" height="77" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-70" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-56">
-          <mxGeometry y="204" width="250" height="68" as="geometry" />
+          <mxGeometry y="217" width="300" height="78" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-71" value="&lt;p&gt;测量间隔&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-70">
-          <mxGeometry width="125" height="68" as="geometry">
-            <mxRectangle width="125" height="68" as="alternateBounds" />
+          <mxGeometry width="150" height="78" as="geometry">
+            <mxRectangle width="150" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-72" value="&lt;p&gt;每 2–4 h 测一次&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-70">
-          <mxGeometry x="125" width="125" height="68" as="geometry">
-            <mxRectangle width="125" height="68" as="alternateBounds" />
+          <mxGeometry x="150" width="150" height="78" as="geometry">
+            <mxRectangle width="150" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-73" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-56">
-          <mxGeometry y="272" width="250" height="68" as="geometry" />
+          <mxGeometry y="295" width="300" height="78" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-74" value="&lt;p&gt;同步记录&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-73">
-          <mxGeometry width="125" height="68" as="geometry">
-            <mxRectangle width="125" height="68" as="alternateBounds" />
+          <mxGeometry width="150" height="78" as="geometry">
+            <mxRectangle width="150" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-75" value="&lt;p&gt;OD680、细胞密度、温度、电导率、DO，如果有 DO 仪&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-73">
-          <mxGeometry x="125" width="125" height="68" as="geometry">
-            <mxRectangle width="125" height="68" as="alternateBounds" />
+          <mxGeometry x="150" width="150" height="78" as="geometry">
+            <mxRectangle width="150" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
