@@ -677,6 +677,9 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-46" value="证明损伤增强不是去 EPS 操作副作用，而是因为 EPS 屏障缺失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="2290" width="423" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
