@@ -157,7 +157,7 @@
             <mxRectangle width="80" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-83">
+        <mxCell id="XKasdyiVz5NgMn03z-30-86" value="&lt;p&gt;判断藻生物量变化&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-83">
           <mxGeometry x="170" width="300" height="80" as="geometry">
             <mxRectangle width="300" height="80" as="alternateBounds" />
           </mxGeometry>
