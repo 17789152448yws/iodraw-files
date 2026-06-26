@@ -593,8 +593,8 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="2040" width="120" height="60" as="geometry" />
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-18" value="正常藻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2010" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
