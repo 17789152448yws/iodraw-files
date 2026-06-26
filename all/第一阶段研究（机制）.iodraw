@@ -1,0 +1,752 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="ilw147b-csquPHmark1Y">
+    <mxGraphModel dx="2389" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XKasdyiVz5NgMn03z-30-3" value="铜绿微囊藻昼夜 pH 曲线测定" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="186" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=center;" parent="1" vertex="1">
+          <mxGeometry x="250" y="126" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-39" vertex="1">
+          <mxGeometry width="200" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-41" value="组别" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-40" vertex="1">
+          <mxGeometry width="88" height="39" as="geometry">
+            <mxRectangle width="88" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-42" value="目的" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-40" vertex="1">
+          <mxGeometry x="88" width="112" height="39" as="geometry">
+            <mxRectangle width="112" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-39" vertex="1">
+          <mxGeometry y="39" width="200" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-45" value="铜绿微囊藻" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-44" vertex="1">
+          <mxGeometry width="88" height="59" as="geometry">
+            <mxRectangle width="88" height="59" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-46" value="测真实光暗 pH 波动" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-44" vertex="1">
+          <mxGeometry x="88" width="112" height="59" as="geometry">
+            <mxRectangle width="112" height="59" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-39" vertex="1">
+          <mxGeometry y="98" width="200" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-49" value="无藻培养基" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-48" vertex="1">
+          <mxGeometry width="88" height="62" as="geometry">
+            <mxRectangle width="88" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-50" value="判断培养基本身 pH 是否漂移" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-48" vertex="1">
+          <mxGeometry x="88" width="112" height="62" as="geometry">
+            <mxRectangle width="112" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" parent="1" source="XKasdyiVz5NgMn03z-30-3" target="XKasdyiVz5NgMn03z-30-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-56" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=center;" parent="1" vertex="1">
+          <mxGeometry x="527" y="66" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-56" vertex="1">
+          <mxGeometry width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-58" value="项目" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-57" vertex="1">
+          <mxGeometry width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-59" value="设置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-57" vertex="1">
+          <mxGeometry x="150" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-56" vertex="1">
+          <mxGeometry y="40" width="300" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-62" value="&lt;p&gt;光暗周期&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-61" vertex="1">
+          <mxGeometry width="150" height="52" as="geometry">
+            <mxRectangle width="150" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-63" value="&lt;p&gt;12 h 光 / 12 h 暗&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-61" vertex="1">
+          <mxGeometry x="150" width="150" height="52" as="geometry">
+            <mxRectangle width="150" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-65" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-56" vertex="1">
+          <mxGeometry y="92" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-66" value="&lt;p&gt;测量周期&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-65" vertex="1">
+          <mxGeometry width="150" height="50" as="geometry">
+            <mxRectangle width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-67" value="&lt;p&gt;连续 2–3 个昼夜&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-65" vertex="1">
+          <mxGeometry x="150" width="150" height="50" as="geometry">
+            <mxRectangle width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-70" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-56" vertex="1">
+          <mxGeometry y="142" width="300" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-71" value="&lt;p&gt;测量间隔&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-70" vertex="1">
+          <mxGeometry width="150" height="58" as="geometry">
+            <mxRectangle width="150" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-72" value="&lt;p&gt;每 2–4 h 测一次&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-70" vertex="1">
+          <mxGeometry x="150" width="150" height="58" as="geometry">
+            <mxRectangle width="150" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-73" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-56" vertex="1">
+          <mxGeometry y="200" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-74" value="&lt;p&gt;同步记录&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-73" vertex="1">
+          <mxGeometry width="150" height="80" as="geometry">
+            <mxRectangle width="150" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-75" value="&lt;p&gt;OD680、细胞密度、温度、电导率、DO，如果有 DO 仪&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-73" vertex="1">
+          <mxGeometry x="150" width="150" height="80" as="geometry">
+            <mxRectangle width="150" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" parent="1" source="XKasdyiVz5NgMn03z-30-39" target="XKasdyiVz5NgMn03z-30-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-78" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=center;" parent="1" vertex="1">
+          <mxGeometry x="900" y="66" width="470" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-78" vertex="1">
+          <mxGeometry width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-80" value="指标" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-79" vertex="1">
+          <mxGeometry width="90" height="40" as="geometry">
+            <mxRectangle width="90" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-81" value="仪器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-79" vertex="1">
+          <mxGeometry x="90" width="120" height="40" as="geometry">
+            <mxRectangle width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-82" value="目的" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-79" vertex="1">
+          <mxGeometry x="210" width="260" height="40" as="geometry">
+            <mxRectangle width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-78" vertex="1">
+          <mxGeometry y="40" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-84" value="OD680" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-83" vertex="1">
+          <mxGeometry width="90" height="70" as="geometry">
+            <mxRectangle width="90" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-85" value="&lt;p&gt;紫外-可见分光光度计&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-83" vertex="1">
+          <mxGeometry x="90" width="120" height="70" as="geometry">
+            <mxRectangle width="120" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-86" value="&lt;p&gt;判断藻生物量变化&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-83" vertex="1">
+          <mxGeometry x="210" width="260" height="70" as="geometry">
+            <mxRectangle width="260" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-78" vertex="1">
+          <mxGeometry y="110" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-88" value="细胞密度" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-87" vertex="1">
+          <mxGeometry width="90" height="80" as="geometry">
+            <mxRectangle width="90" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-89" value="血球计数板/流式细胞仪" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-87" vertex="1">
+          <mxGeometry x="90" width="120" height="80" as="geometry">
+            <mxRectangle width="120" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-90" value="&lt;p&gt;统一藻密度&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-87" vertex="1">
+          <mxGeometry x="210" width="260" height="80" as="geometry">
+            <mxRectangle width="260" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-91" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-78" vertex="1">
+          <mxGeometry y="190" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-92" value="电导率" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-91" vertex="1">
+          <mxGeometry width="90" height="70" as="geometry">
+            <mxRectangle width="90" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-93" value="电导率仪" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-91" vertex="1">
+          <mxGeometry x="90" width="120" height="70" as="geometry">
+            <mxRectangle width="120" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-94" value="&lt;p&gt;判断离子背景变化&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="XKasdyiVz5NgMn03z-30-91" vertex="1">
+          <mxGeometry x="210" width="260" height="70" as="geometry">
+            <mxRectangle width="260" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" parent="1" source="XKasdyiVz5NgMn03z-30-65" target="XKasdyiVz5NgMn03z-30-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-96" value="PBAT 材料状态制备与筛选" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" parent="1" vertex="1">
+          <mxGeometry x="270" y="485" width="260" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry width="260" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-3" value="组别" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-2" vertex="1">
+          <mxGeometry width="260" height="43" as="geometry">
+            <mxRectangle width="260" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry y="43" width="260" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-6" value="无PBAT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-5" vertex="1">
+          <mxGeometry width="260" height="44" as="geometry">
+            <mxRectangle width="260" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry y="87" width="260" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-9" value="原始PBAT颗粒" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-8" vertex="1">
+          <mxGeometry width="260" height="44" as="geometry">
+            <mxRectangle width="260" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry y="131" width="260" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-12" value="碱解PBAT母液" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-11" vertex="1">
+          <mxGeometry width="260" height="43" as="geometry">
+            <mxRectangle width="260" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry y="174" width="260" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-15" value="&amp;gt;0.22μm或过滤前颗粒部分" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-14" vertex="1">
+          <mxGeometry width="260" height="65" as="geometry">
+            <mxRectangle width="260" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry y="239" width="260" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-18" value="0.22-3kDa的胶体/低聚物部分" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-17" vertex="1">
+          <mxGeometry width="260" height="44" as="geometry">
+            <mxRectangle width="260" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry y="283" width="260" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-21" value="&amp;lt;3kDA小分子部分" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-20" vertex="1">
+          <mxGeometry width="260" height="44" as="geometry">
+            <mxRectangle width="260" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-1" vertex="1">
+          <mxGeometry y="327" width="260" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-24" value="经pH波动处理之后的PBAT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E_J0uz-8hi5Pzh0kbOhq-23" vertex="1">
+          <mxGeometry width="260" height="43" as="geometry">
+            <mxRectangle width="260" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-48" value="原始PBAT的制备及表征" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="380" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-52" value="&lt;div style=&quot;&quot;&gt;PBAT 薄膜&lt;span style=&quot;font-family: Arial; font-size: 10.5pt; background-color: initial;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;剪碎&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt; background-color: initial;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;液氮冷冻脆化&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt; background-color: initial;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;冷冻研磨 / 机械研磨&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt; background-color: initial;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;筛分或沉降分级&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt; background-color: initial;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Raw-PBAT fragments&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="450" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-53" value="表征" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="420" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-54" value="制备" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="420" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-56" value="原始PBAT" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="570" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-58" value="粒径（DLS）、形貌（SEM）、Zeta（Zeta电位仪）、FTIR（ATR-FTIR）、接触角或疏水性（接触角仪）、TOC背景" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="450" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-59" value="材料" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="570" y="380" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-60" value="pH波动的PBAT" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="570" y="510" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-61" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Raw-PBAT fragments&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;加入无藻培养基或模拟培养基&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;低&lt;/font&gt; pH &lt;font face=&quot;宋体&quot;&gt;阶段：模拟夜晚呼吸后 &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;pH &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;低值，维持 &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;12 h&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;高&lt;/font&gt; pH &lt;font face=&quot;宋体&quot;&gt;阶段：模拟白天光合作用后 &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;pH &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;高值，维持 &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;12 h&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;重复&lt;/font&gt; 3&lt;font face=&quot;宋体&quot;&gt;、&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;7&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;、&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;14 &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;个周期&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;离心&lt;/font&gt;/&lt;font face=&quot;宋体&quot;&gt;过滤分离&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;pH-PBAT-solid&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Arial;&lt;br/&gt;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;mso-ansi-font-style:normal;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;pH-PBAT-leachate&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="510" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-62" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="510" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-63" value="SEM、DLS、Zeta、FTIR、XPS、pH、电导率" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#877373;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="510" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-64" value="DLS、Zeta、FTIR（冻干后辅助检测）、TOC、HPLC/LC-MS、GPC、pH、电导率" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1e81cc;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="510" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-65" value="碱解组PBAT" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="570" y="610" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-66" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;PBAT &lt;font face=&quot;宋体&quot;&gt;薄膜 &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;+ NaOH &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;碱解中和至&lt;/font&gt; pH &lt;font face=&quot;宋体&quot;&gt;约 &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;7&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;透析至外液电导率接近水&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;得到&lt;/font&gt; Alk-PBAT unfiltered&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;│&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;├─ &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;离心&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;/0.22 μm &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;过滤截留&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;│ &amp;nbsp;&amp;nbsp;↓&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;│ &amp;nbsp;&amp;nbsp;Alk-PBAT retained&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;：&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;gt;0.22 μm &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;或过滤前颗粒&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;大胶体&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;│&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;└─ 0.22 μm &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;滤液&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;Arial&quot;&gt;↓&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Alk-PBAT filtrate&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;Arial&quot;&gt;↓&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;3 kDa &lt;font face=&quot;宋体&quot;&gt;超滤&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;Arial&quot;&gt;├─ 3 kDa &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;截留液：&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;lt;0.22 μm &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;且 &lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;gt;3 kDa &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;胶体&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;低聚物&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;Arial&quot;&gt;└─ 3 kDa &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;透过液：&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;lt;3 kDa &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;小分子&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;mso-ansi-font-style:normal;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="610" width="380" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-67" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="610" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-68" value="&lt;p&gt;pH、电导率、TOC、DLS/NTA、Zeta、浊度、FTIR&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF3705;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="610" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-69" value="&lt;p&gt;SEM、DLS/NTA、Zeta、FTIR、XPS、干重、TOC&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFEF63;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="730" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-71" value="&lt;p&gt;TOC、DLS/NTA、Zeta、GPC/SEC、HPLC/LC-MS、FTIR&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#3399FF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="840" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-72" value="&lt;p&gt;TOC、HPLC/LC-MS、GPC/SEC、UV-Vis、pH、电导率&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#00994D;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="950" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="Nysrpe_2REl4sw2O3UNu-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-74" value="PBATxEPS分层筛选" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-3" value="" style="group;align=center;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="290" y="1190" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-75" value="EPS的提取、表征" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-3" vertex="1">
+          <mxGeometry y="4.5" width="120" height="31" as="geometry" />
+        </mxCell>
+        <UserObject label="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" link="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-2">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;align=center;" parent="g8Fyidec5uRJs6gt0CTj-3" vertex="1">
+            <mxGeometry x="160" width="270" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-48" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="290" y="1330" width="1011" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-4" target="g8Fyidec5uRJs6gt0CTj-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-4" value="PBATxEPS初筛" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-48" vertex="1">
+          <mxGeometry y="125" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" parent="g8Fyidec5uRJs6gt0CTj-48" vertex="1">
+          <mxGeometry x="160" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="g8Fyidec5uRJs6gt0CTj-5" vertex="1">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-7" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PABT类型" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-6" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-8" value="S-EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-6" vertex="1">
+          <mxGeometry x="100" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-9" value="LB-EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-6" vertex="1">
+          <mxGeometry x="170" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-10" value="TB-EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-6" vertex="1">
+          <mxGeometry x="230" width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="g8Fyidec5uRJs6gt0CTj-5" vertex="1">
+          <mxGeometry y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-12" value="原始颗粒" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-11" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-11" vertex="1">
+          <mxGeometry x="100" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-11" vertex="1">
+          <mxGeometry x="170" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-11" vertex="1">
+          <mxGeometry x="230" width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="g8Fyidec5uRJs6gt0CTj-5" vertex="1">
+          <mxGeometry y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-17" value="pH波动固相" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-16" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-16" vertex="1">
+          <mxGeometry x="100" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-16" vertex="1">
+          <mxGeometry x="170" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-16" vertex="1">
+          <mxGeometry x="230" width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="g8Fyidec5uRJs6gt0CTj-5" vertex="1">
+          <mxGeometry y="120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-22" value="pH波动水解液" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-21" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-21" vertex="1">
+          <mxGeometry x="100" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-21" vertex="1">
+          <mxGeometry x="170" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-21" vertex="1">
+          <mxGeometry x="230" width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="g8Fyidec5uRJs6gt0CTj-5" vertex="1">
+          <mxGeometry y="160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-27" value="0.22截留固相" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-26" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-28" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-26" vertex="1">
+          <mxGeometry x="100" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-29" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-26" vertex="1">
+          <mxGeometry x="170" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-26" vertex="1">
+          <mxGeometry x="230" width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="g8Fyidec5uRJs6gt0CTj-5" vertex="1">
+          <mxGeometry y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-32" value="过滤未3KDa超滤" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-31" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-31" vertex="1">
+          <mxGeometry x="100" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-31" vertex="1">
+          <mxGeometry x="170" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-31" vertex="1">
+          <mxGeometry x="230" width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="g8Fyidec5uRJs6gt0CTj-5" vertex="1">
+          <mxGeometry y="240" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-37" value="过滤3KDa超滤" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-36" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-36" vertex="1">
+          <mxGeometry x="100" width="70" height="40" as="geometry">
+            <mxRectangle width="70" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-36" vertex="1">
+          <mxGeometry x="170" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-40" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;√&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="g8Fyidec5uRJs6gt0CTj-36" vertex="1">
+          <mxGeometry x="230" width="50" height="40" as="geometry">
+            <mxRectangle width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-44" target="g8Fyidec5uRJs6gt0CTj-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&quot;F:\实验方案\PBAT与EPS的相互作用\初筛条件和指标.xlsx&quot;" link="&quot;F:\实验方案\PBAT与EPS的相互作用\初筛条件和指标.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-44">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="g8Fyidec5uRJs6gt0CTj-48" vertex="1">
+            <mxGeometry x="480" y="120" width="350" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-45" value="判断那种PBAT状态主要作用那一层的EPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="g8Fyidec5uRJs6gt0CTj-48" vertex="1">
+          <mxGeometry x="891" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-21" target="g8Fyidec5uRJs6gt0CTj-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g8Fyidec5uRJs6gt0CTj-49" target="BZQy1eY8P7Pa9EngvGuI-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-49" value="关键组合机制验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g8Fyidec5uRJs6gt0CTj-50" target="g8Fyidec5uRJs6gt0CTj-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-50" value="根据前两个过程筛选出用于机制组研究的PBAT类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g8Fyidec5uRJs6gt0CTj-53" target="g8Fyidec5uRJs6gt0CTj-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&quot;F:\实验方案\PBAT制备相关\初筛PBAT类型.xlsx&quot;" link="&quot;F:\实验方案\PBAT制备相关\初筛PBAT类型.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-53">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
+            <mxGeometry x="460" y="1680" width="300" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&quot;F:\实验方案\PBAT与EPS的相互作用\机制验证阶段.xlsx&quot;" link="&quot;F:\实验方案\PBAT与EPS的相互作用\机制验证阶段.xlsx&quot;" id="BZQy1eY8P7Pa9EngvGuI-32">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
+            <mxGeometry x="450" y="1765" width="340" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-4" value="&lt;h1 style=&quot;box-sizing: border-box; border: 0px solid rgba(0, 0, 0, 0.05); margin: 0px 0px 8px; padding: 0px; --tw-font-weight: 600; color: rgb(13, 13, 13); --tw-tracking: 0em; line-height: 1.33333; background-color: rgb(252, 252, 252);&quot; data-end=&quot;9289&quot; data-start=&quot;9267&quot; data-section-id=&quot;1qmznsq&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;活体铜绿微囊藻体系验证&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-5" value="PBAT组别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1890" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-6" value="原始颗粒对照组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1840" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-7" value="核心主线pH波动组（固/液）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1890" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-8" value="强水解参照组（碱解中筛选的组分）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1950" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-14" value="活体组别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="2200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-16" target="Nysrpe_2REl4sw2O3UNu-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-16" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;光暗但 pH 缓冲固定组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-17" target="Nysrpe_2REl4sw2O3UNu-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-17" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;光暗自然 pH 组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-18" target="Nysrpe_2REl4sw2O3UNu-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-18" value="正常藻" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2010" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-19" target="Nysrpe_2REl4sw2O3UNu-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-19" value="正常藻+原始颗粒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2060" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-20" target="Nysrpe_2REl4sw2O3UNu-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-20" value="正常藻&lt;br&gt;+pH-PBAT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-21" target="Nysrpe_2REl4sw2O3UNu-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-21" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;正常藻 + Alk-PBAT 关键参照&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-22" target="Nysrpe_2REl4sw2O3UNu-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-22" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;去 EPS 藻 + PBAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-23" target="Nysrpe_2REl4sw2O3UNu-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-23" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;去 EPS + EPS 回补 + PBAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="2290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-33" value="建立铜绿微囊藻在无 PBAT、EPS 完整状态下的生理基准" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="2010" width="313" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-35" value="基准" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="2000" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-36" value="判断未经 pH 转化的 PBAT 原始颗粒对完整 EPS 藻细胞的基础影响" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="2060" width="363" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-38" value="原始颗粒效应" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="2050" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-39" value="判断昼夜 pH 波动转化后的 PBAT 是否比 Raw-PBAT 更容易影响藻细胞和 EPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="2110" width="423" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-41" value="pH转化PBAT效应" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="2100" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-42" value="用强水解产物作为机制参照，判断 pH-PBAT 的作用是否接近水解产物效应" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="2170" width="423" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-43" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;强水解参照&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="2160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-44" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;4885&quot; data-start=&quot;4868&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;4916&quot; data-start=&quot;4885&quot; data-col-size=&quot;sm&quot;&gt;判断 EPS 缺失后，PBAT 对藻细胞的损伤是否增强&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="2230" width="423" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-45" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;看没有 EPS 时 PBAT 是否更强损伤&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="2220" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-46" value="证明损伤增强不是去 EPS 操作副作用，而是因为 EPS 屏障缺失" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="2290" width="423" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-47" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;验证保护来自 EPS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-48" value="模拟铜绿微囊藻真实光暗周期下的 pH 波动体系" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="2360" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-49" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;真实昼夜体系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-50" value="区分 PBAT 效应到底来自 pH 波动，还是来自光照/黑暗周期本身" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="2430" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-51" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;区分 pH 与光照/代谢效应&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="2420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-58" value="&lt;span style=&quot;background-color: rgb(255, 25, 25);&quot;&gt;EPS因果验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="2270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-59" value="&lt;span style=&quot;background-color: rgb(250, 255, 120);&quot;&gt;PBAT 状态模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="2000" width="100" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-60" value="&lt;span style=&quot;background-color: rgb(120, 187, 255);&quot;&gt;基准模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="2010" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-61" value="&lt;span style=&quot;background-color: rgb(31, 255, 46);&quot;&gt;环境真实性模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="2390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="XKasdyiVz5NgMn03z-30-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="XKasdyiVz5NgMn03z-30-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-62" value="pH波动下的PBAT对铜绿微囊藻中EPS保护作用的影响" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
