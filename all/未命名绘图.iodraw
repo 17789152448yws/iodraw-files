@@ -635,8 +635,8 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-23" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;去 EPS + EPS 回补 + PBAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="2040" width="120" height="60" as="geometry" />
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-33" value="建立铜绿微囊藻在无 PBAT、EPS 完整状态下的生理基准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="2010" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
