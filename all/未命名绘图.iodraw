@@ -683,6 +683,9 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-48" value="模拟铜绿微囊藻真实光暗周期下的 pH 波动体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="2360" width="420" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
