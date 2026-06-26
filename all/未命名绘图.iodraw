@@ -509,7 +509,7 @@
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8Fyidec5uRJs6gt0CTj-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;labelBackgroundColor=default;fontColor=#0ae623;" vertex="1" parent="1">
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;labelBackgroundColor=#0bef5b;fontColor=#0ae623;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="570" y="1280" width="15" height="20" as="geometry" />
         </mxCell>
       </root>
