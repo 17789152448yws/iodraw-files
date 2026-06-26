@@ -584,6 +584,12 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-8" value="强水解参照组（碱解中筛选的组分）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1950" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-14" value="活体组别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2200" width="120" height="30" as="geometry" />
         </mxCell>
