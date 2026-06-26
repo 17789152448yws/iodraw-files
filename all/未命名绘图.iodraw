@@ -202,7 +202,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-96" value="PBAT 材料状态制备与筛选" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="540" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="650" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="270" y="485" width="260" height="370" as="geometry" />
@@ -331,20 +331,18 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-74" value="PBATxEPS分层筛选" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1290" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QPcn-vuyozqVFiWjhwIh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-75" target="QPcn-vuyozqVFiWjhwIh-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QPcn-vuyozqVFiWjhwIh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1154" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QPcn-vuyozqVFiWjhwIh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-75" target="QPcn-vuyozqVFiWjhwIh-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QPcn-vuyozqVFiWjhwIh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1205" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-75" value="EPS的提取、表征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1169" width="120" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="QPcn-vuyozqVFiWjhwIh-2" value="提取方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1139" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QPcn-vuyozqVFiWjhwIh-4" value="表征方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1190" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
