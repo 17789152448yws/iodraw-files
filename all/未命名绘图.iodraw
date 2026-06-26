@@ -339,9 +339,12 @@
         </mxCell>
         <UserObject label="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" link="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-2">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;align=center;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-3">
-            <mxGeometry x="140" width="270" height="40" as="geometry" />
+            <mxGeometry x="160" width="270" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8Fyidec5uRJs6gt0CTj-4" target="g8Fyidec5uRJs6gt0CTj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-4" value="PBATxEPS初筛" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="1430" width="120" height="30" as="geometry" />
         </mxCell>
