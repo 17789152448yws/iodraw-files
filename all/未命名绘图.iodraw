@@ -512,6 +512,9 @@
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8Fyidec5uRJs6gt0CTj-44" target="g8Fyidec5uRJs6gt0CTj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&quot;F:\实验方案\PBAT与EPS的相互作用\初筛条件和指标.xlsx&quot;" link="&quot;F:\实验方案\PBAT与EPS的相互作用\初筛条件和指标.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-44">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
             <mxGeometry x="770" y="1425" width="350" height="40" as="geometry" />
