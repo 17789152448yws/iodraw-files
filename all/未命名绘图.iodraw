@@ -653,8 +653,8 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-38" value="原始颗粒效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="2050" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="2110" width="363" height="60" as="geometry" />
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-39" value="判断昼夜 pH 波动转化后的 PBAT 是否比 Raw-PBAT 更容易影响藻细胞和 EPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="2110" width="433" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
