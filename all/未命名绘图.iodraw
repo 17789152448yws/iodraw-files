@@ -331,10 +331,13 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-74" value="PBATxEPS分层筛选" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1290" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QPcn-vuyozqVFiWjhwIh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-75" target="QPcn-vuyozqVFiWjhwIh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-75" value="EPS的提取、表征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1169" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="QPcn-vuyozqVFiWjhwIh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QPcn-vuyozqVFiWjhwIh-2" value="提取方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1154.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
