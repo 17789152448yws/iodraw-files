@@ -331,12 +331,15 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-74" value="PBATxEPS分层筛选" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1290" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-75" value="EPS的提取、表征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1169" width="120" height="31" as="geometry" />
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="1164.5" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-75" value="EPS的提取、表征" style="rounded=0;whiteSpace=wrap;html=1;" parent="g8Fyidec5uRJs6gt0CTj-3" vertex="1">
+          <mxGeometry y="4.5" width="120" height="31" as="geometry" />
         </mxCell>
         <UserObject label="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" link="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-2">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="655" y="1050" width="270" height="40" as="geometry" />
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-3">
+            <mxGeometry x="140" width="270" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
