@@ -557,6 +557,9 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-4" value="&lt;h1 style=&quot;box-sizing: border-box; border: 0px solid rgba(0, 0, 0, 0.05); margin: 0px 0px 8px; padding: 0px; --tw-font-weight: 600; color: rgb(13, 13, 13); --tw-tracking: 0em; line-height: 1.33333; background-color: rgb(252, 252, 252);&quot; data-end=&quot;9289&quot; data-start=&quot;9267&quot; data-section-id=&quot;1qmznsq&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;活体铜绿微囊藻体系验证&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1940" width="120" height="50" as="geometry" />
         </mxCell>
@@ -582,7 +585,7 @@
           <mxGeometry x="660" y="1950" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-14" value="活体组别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2010" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="2090" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
