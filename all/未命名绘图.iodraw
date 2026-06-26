@@ -272,7 +272,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-48" value="原始PBAT的制备及表征" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="380" width="700" height="40" as="geometry" />
+          <mxGeometry x="670" y="390" width="700" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-52" value="&lt;div&gt;PBAT 薄膜&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;剪碎&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;液氮冷冻脆化&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;冷冻研磨 / 机械研磨&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;筛分或沉降分级&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;Raw-PBAT fragments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="520" width="120" height="330" as="geometry" />
@@ -282,9 +282,6 @@
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-54" value="制备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="420" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
