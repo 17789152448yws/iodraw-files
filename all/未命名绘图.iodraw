@@ -443,7 +443,7 @@
         <mxCell id="g8Fyidec5uRJs6gt0CTj-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-5">
           <mxGeometry y="160" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g8Fyidec5uRJs6gt0CTj-27" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-26">
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-27" value="0.22截留液" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-26">
           <mxGeometry width="90" height="40" as="geometry">
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
