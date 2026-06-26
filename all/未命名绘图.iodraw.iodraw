@@ -593,12 +593,12 @@
         <mxCell id="HEG6x2T29OUqqQdcnjYK-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HEG6x2T29OUqqQdcnjYK-5">
           <mxGeometry y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HEG6x2T29OUqqQdcnjYK-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="HEG6x2T29OUqqQdcnjYK-27">
+        <mxCell id="HEG6x2T29OUqqQdcnjYK-28" value="EPS + PBAT + EDTA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="HEG6x2T29OUqqQdcnjYK-27">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HEG6x2T29OUqqQdcnjYK-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="HEG6x2T29OUqqQdcnjYK-27">
+        <mxCell id="HEG6x2T29OUqqQdcnjYK-29" value="&lt;p&gt;判断桥联破坏后保护作用是否改变&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="HEG6x2T29OUqqQdcnjYK-27">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
