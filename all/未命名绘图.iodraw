@@ -629,6 +629,9 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-19" value="正常藻+原始颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2060" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-20" target="Nysrpe_2REl4sw2O3UNu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-20" value="正常藻&lt;br&gt;+pH-PBAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2110" width="120" height="30" as="geometry" />
         </mxCell>
@@ -654,7 +657,10 @@
           <mxGeometry x="1190" y="2050" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-39" value="判断昼夜 pH 波动转化后的 PBAT 是否比 Raw-PBAT 更容易影响藻细胞和 EPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="2110" width="433" height="30" as="geometry" />
+          <mxGeometry x="827" y="2110" width="423" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
