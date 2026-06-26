@@ -665,6 +665,9 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-42" value="用强水解产物作为机制参照，判断 pH-PBAT 的作用是否接近水解产物效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="2170" width="423" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
