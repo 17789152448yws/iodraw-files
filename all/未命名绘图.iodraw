@@ -517,6 +517,9 @@
             <mxGeometry x="770" y="1425" width="350" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-45" value="判断那种PBAT状态主要作用那一层的EPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
