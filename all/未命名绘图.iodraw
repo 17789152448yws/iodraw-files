@@ -334,6 +334,11 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-75" value="EPS的提取、表征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1169" width="120" height="31" as="geometry" />
         </mxCell>
+        <UserObject label="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" link="&quot;F:\实验方案\EPS相关\EPS的提取表征.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-2">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="655" y="1050" width="270" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
