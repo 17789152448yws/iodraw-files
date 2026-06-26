@@ -342,14 +342,17 @@
             <mxGeometry x="160" width="270" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="g8Fyidec5uRJs6gt0CTj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8Fyidec5uRJs6gt0CTj-4" target="g8Fyidec5uRJs6gt0CTj-21">
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-48" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="1305" width="1011" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-4" target="g8Fyidec5uRJs6gt0CTj-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8Fyidec5uRJs6gt0CTj-4" value="PBATxEPS初筛" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1430" width="120" height="30" as="geometry" />
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-4" value="PBATxEPS初筛" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-48">
+          <mxGeometry y="125" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g8Fyidec5uRJs6gt0CTj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1305" width="280" height="280" as="geometry" />
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-48">
+          <mxGeometry x="160" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-5">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -512,16 +515,19 @@
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8Fyidec5uRJs6gt0CTj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8Fyidec5uRJs6gt0CTj-44" target="g8Fyidec5uRJs6gt0CTj-45">
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-44" target="g8Fyidec5uRJs6gt0CTj-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&quot;F:\实验方案\PBAT与EPS的相互作用\初筛条件和指标.xlsx&quot;" link="&quot;F:\实验方案\PBAT与EPS的相互作用\初筛条件和指标.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-44">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="770" y="1425" width="350" height="40" as="geometry" />
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-48">
+            <mxGeometry x="480" y="120" width="350" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="g8Fyidec5uRJs6gt0CTj-45" value="判断那种PBAT状态主要作用那一层的EPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="1415" width="120" height="60" as="geometry" />
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-45" value="判断那种PBAT状态主要作用那一层的EPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g8Fyidec5uRJs6gt0CTj-48">
+          <mxGeometry x="891" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8Fyidec5uRJs6gt0CTj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-21" target="g8Fyidec5uRJs6gt0CTj-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
