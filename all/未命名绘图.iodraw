@@ -325,8 +325,8 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-71" value="&lt;p&gt;TOC、DLS/NTA、Zeta、GPC/SEC、HPLC/LC-MS、FTIR&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="730" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-72" value="&lt;p&gt;TOC、HPLC/LC-MS、GPC/SEC、UV-Vis、pH、电导率&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="970" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
