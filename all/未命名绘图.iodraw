@@ -538,6 +538,11 @@
         <mxCell id="g8Fyidec5uRJs6gt0CTj-50" value="根据前两个过程筛选出用于机制组研究的PBAT类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
+        <UserObject label="&quot;F:\实验方案\PBAT制备相关\初筛PBAT类型.xlsx&quot;" link="&quot;F:\实验方案\PBAT制备相关\初筛PBAT类型.xlsx&quot;" id="g8Fyidec5uRJs6gt0CTj-53">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="690" y="1550" width="300" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
