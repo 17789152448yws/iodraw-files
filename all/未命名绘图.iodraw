@@ -530,7 +530,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-49" value="关键组合机制验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1720" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
