@@ -494,7 +494,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HEG6x2T29OUqqQdcnjYK-2" value="&lt;p&gt;PBAT 是否改变 EPS 保护作用&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
