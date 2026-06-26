@@ -719,6 +719,12 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-61" value="&lt;span style=&quot;background-color: rgb(31, 255, 46);&quot;&gt;环境真实性模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="2390" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="XKasdyiVz5NgMn03z-30-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-62" value="pH波动下的PBAT对铜绿微囊藻中EPS保护作用的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
