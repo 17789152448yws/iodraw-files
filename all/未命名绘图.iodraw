@@ -510,7 +510,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
-          <mxGeometry x="750" y="1020" width="85" height="100" as="geometry" />
+          <mxGeometry x="570" y="1280" width="25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
