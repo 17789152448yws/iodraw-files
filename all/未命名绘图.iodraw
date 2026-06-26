@@ -316,10 +316,10 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="610" width="320" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-68" value="&lt;p&gt;pH、电导率、TOC、DLS/NTA、Zeta、浊度、FTIR&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-68" value="&lt;p&gt;pH、电导率、TOC、DLS/NTA、Zeta、浊度、FTIR&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF3705;" vertex="1" parent="1">
           <mxGeometry x="1070" y="610" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-69" value="&lt;p&gt;SEM、DLS/NTA、Zeta、FTIR、XPS、干重、TOC&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-69" value="&lt;p&gt;SEM、DLS/NTA、Zeta、FTIR、XPS、干重、TOC&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1070" y="730" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-71" value="&lt;p&gt;TOC、DLS/NTA、Zeta、GPC/SEC、HPLC/LC-MS、FTIR&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
