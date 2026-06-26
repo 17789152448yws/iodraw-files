@@ -650,6 +650,9 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-36" value="判断未经 pH 转化的 PBAT 原始颗粒对完整 EPS 藻细胞的基础影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="2060" width="363" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
