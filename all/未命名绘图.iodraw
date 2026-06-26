@@ -307,8 +307,8 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-64" value="DLS、Zeta、FTIR（冻干后辅助检测）、TOC、HPLC/LC-MS、GPC、pH、电导率" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1e81cc;" vertex="1" parent="1">
           <mxGeometry x="1230" y="510" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-65" value="碱解组PBAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
