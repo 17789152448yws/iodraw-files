@@ -301,7 +301,7 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="510" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-63" value="SEM、DLS、Zeta、FTIR、XPS、pH、电导率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-63" value="SEM、DLS、Zeta、FTIR、XPS、pH、电导率" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1070" y="510" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-64" value="DLS、Zeta、FTIR（冻干后辅助检测）、TOC、HPLC/LC-MS、GPC、pH、电导率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
