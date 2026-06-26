@@ -328,16 +328,16 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-72" value="&lt;p&gt;TOC、HPLC/LC-MS、GPC/SEC、UV-Vis、pH、电导率&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#00994D;align=center;" parent="1" vertex="1">
           <mxGeometry x="1070" y="950" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-4">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-50">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-49">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="g8Fyidec5uRJs6gt0CTj-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="Nysrpe_2REl4sw2O3UNu-4">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_J0uz-8hi5Pzh0kbOhq-74" target="Nysrpe_2REl4sw2O3UNu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-74" value="PBATxEPS分层筛选" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -541,7 +541,7 @@
         <mxCell id="g8Fyidec5uRJs6gt0CTj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-21" target="g8Fyidec5uRJs6gt0CTj-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8Fyidec5uRJs6gt0CTj-49" target="BZQy1eY8P7Pa9EngvGuI-32">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g8Fyidec5uRJs6gt0CTj-49" target="BZQy1eY8P7Pa9EngvGuI-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-49" value="关键组合机制验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -566,184 +566,184 @@
             <mxGeometry x="450" y="1765" width="340" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-5">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-14">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-4" target="Nysrpe_2REl4sw2O3UNu-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-4" value="&lt;h1 style=&quot;box-sizing: border-box; border: 0px solid rgba(0, 0, 0, 0.05); margin: 0px 0px 8px; padding: 0px; --tw-font-weight: 600; color: rgb(13, 13, 13); --tw-tracking: 0em; line-height: 1.33333; background-color: rgb(252, 252, 252);&quot; data-end=&quot;9289&quot; data-start=&quot;9267&quot; data-section-id=&quot;1qmznsq&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;活体铜绿微囊藻体系验证&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-4" value="&lt;h1 style=&quot;box-sizing: border-box; border: 0px solid rgba(0, 0, 0, 0.05); margin: 0px 0px 8px; padding: 0px; --tw-font-weight: 600; color: rgb(13, 13, 13); --tw-tracking: 0em; line-height: 1.33333; background-color: rgb(252, 252, 252);&quot; data-end=&quot;9289&quot; data-start=&quot;9267&quot; data-section-id=&quot;1qmznsq&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;活体铜绿微囊藻体系验证&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-6">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-7">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-8">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-5" target="Nysrpe_2REl4sw2O3UNu-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-5" value="PBAT组别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-5" value="PBAT组别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1890" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-6" value="原始颗粒对照组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-6" value="原始颗粒对照组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="1840" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-7" value="核心主线pH波动组（固/液）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-7" value="核心主线pH波动组（固/液）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="1890" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-8" value="强水解参照组（碱解中筛选的组分）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-8" value="强水解参照组（碱解中筛选的组分）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="1950" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-18">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-19">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-20">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-21">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-22">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-23">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-17">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-16">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-14" target="Nysrpe_2REl4sw2O3UNu-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-14" value="活体组别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-14" value="活体组别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="2200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-16" target="Nysrpe_2REl4sw2O3UNu-50">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-16" target="Nysrpe_2REl4sw2O3UNu-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-16" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;光暗但 pH 缓冲固定组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-16" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;光暗但 pH 缓冲固定组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-17" target="Nysrpe_2REl4sw2O3UNu-48">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-17" target="Nysrpe_2REl4sw2O3UNu-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-17" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;光暗自然 pH 组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-17" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;光暗自然 pH 组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-18" target="Nysrpe_2REl4sw2O3UNu-33">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-18" target="Nysrpe_2REl4sw2O3UNu-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-18" value="正常藻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-18" value="正常藻" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2010" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-19" target="Nysrpe_2REl4sw2O3UNu-36">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-19" target="Nysrpe_2REl4sw2O3UNu-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-19" value="正常藻+原始颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-19" value="正常藻+原始颗粒" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2060" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-20" target="Nysrpe_2REl4sw2O3UNu-39">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-20" target="Nysrpe_2REl4sw2O3UNu-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-20" value="正常藻&lt;br&gt;+pH-PBAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-20" value="正常藻&lt;br&gt;+pH-PBAT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-21" target="Nysrpe_2REl4sw2O3UNu-42">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Nysrpe_2REl4sw2O3UNu-21" target="Nysrpe_2REl4sw2O3UNu-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-21" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;正常藻 + Alk-PBAT 关键参照&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-21" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;正常藻 + Alk-PBAT 关键参照&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-22" target="Nysrpe_2REl4sw2O3UNu-44">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-22" target="Nysrpe_2REl4sw2O3UNu-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-22" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;去 EPS 藻 + PBAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-22" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;去 EPS 藻 + PBAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2230" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-23" target="Nysrpe_2REl4sw2O3UNu-46">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-23" target="Nysrpe_2REl4sw2O3UNu-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-23" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;去 EPS + EPS 回补 + PBAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-23" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;去 EPS + EPS 回补 + PBAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="2290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-33" value="建立铜绿微囊藻在无 PBAT、EPS 完整状态下的生理基准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-33" value="建立铜绿微囊藻在无 PBAT、EPS 完整状态下的生理基准" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="2010" width="313" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-35" value="基准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-35" value="基准" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="2000" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-36" value="判断未经 pH 转化的 PBAT 原始颗粒对完整 EPS 藻细胞的基础影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-36" value="判断未经 pH 转化的 PBAT 原始颗粒对完整 EPS 藻细胞的基础影响" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="2060" width="363" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-38" value="原始颗粒效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-38" value="原始颗粒效应" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="2050" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-39" value="判断昼夜 pH 波动转化后的 PBAT 是否比 Raw-PBAT 更容易影响藻细胞和 EPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-39" value="判断昼夜 pH 波动转化后的 PBAT 是否比 Raw-PBAT 更容易影响藻细胞和 EPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="2110" width="423" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-41" value="pH转化PBAT效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-41" value="pH转化PBAT效应" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="2100" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-42" value="用强水解产物作为机制参照，判断 pH-PBAT 的作用是否接近水解产物效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-42" value="用强水解产物作为机制参照，判断 pH-PBAT 的作用是否接近水解产物效应" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="2170" width="423" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-43" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;强水解参照&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-43" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;强水解参照&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="2160" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-44" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;4885&quot; data-start=&quot;4868&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;4916&quot; data-start=&quot;4885&quot; data-col-size=&quot;sm&quot;&gt;判断 EPS 缺失后，PBAT 对藻细胞的损伤是否增强&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-44" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;4885&quot; data-start=&quot;4868&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;4916&quot; data-start=&quot;4885&quot; data-col-size=&quot;sm&quot;&gt;判断 EPS 缺失后，PBAT 对藻细胞的损伤是否增强&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="2230" width="423" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-45" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;看没有 EPS 时 PBAT 是否更强损伤&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-45" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;看没有 EPS 时 PBAT 是否更强损伤&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="2220" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-46" value="证明损伤增强不是去 EPS 操作副作用，而是因为 EPS 屏障缺失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-46" value="证明损伤增强不是去 EPS 操作副作用，而是因为 EPS 屏障缺失" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="2290" width="423" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-47" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;验证保护来自 EPS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-47" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;验证保护来自 EPS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-48" value="模拟铜绿微囊藻真实光暗周期下的 pH 波动体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-48" value="模拟铜绿微囊藻真实光暗周期下的 pH 波动体系" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="2360" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-49" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;真实昼夜体系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-49" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;真实昼夜体系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="2350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-50" value="区分 PBAT 效应到底来自 pH 波动，还是来自光照/黑暗周期本身" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-50" value="区分 PBAT 效应到底来自 pH 波动，还是来自光照/黑暗周期本身" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="2430" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-51" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;区分 pH 与光照/代谢效应&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-51" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;区分 pH 与光照/代谢效应&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="2420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-58" value="&lt;span style=&quot;background-color: rgb(255, 25, 25);&quot;&gt;EPS因果验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-58" value="&lt;span style=&quot;background-color: rgb(255, 25, 25);&quot;&gt;EPS因果验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="2270" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-59" value="&lt;span style=&quot;background-color: rgb(250, 255, 120);&quot;&gt;PBAT 状态模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-59" value="&lt;span style=&quot;background-color: rgb(250, 255, 120);&quot;&gt;PBAT 状态模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="2000" width="100" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-60" value="&lt;span style=&quot;background-color: rgb(120, 187, 255);&quot;&gt;基准模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-60" value="&lt;span style=&quot;background-color: rgb(120, 187, 255);&quot;&gt;基准模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="2010" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-61" value="&lt;span style=&quot;background-color: rgb(31, 255, 46);&quot;&gt;环境真实性模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-61" value="&lt;span style=&quot;background-color: rgb(31, 255, 46);&quot;&gt;环境真实性模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="2390" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="XKasdyiVz5NgMn03z-30-96">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="XKasdyiVz5NgMn03z-30-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-75">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-74">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="XKasdyiVz5NgMn03z-30-3">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="XKasdyiVz5NgMn03z-30-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nysrpe_2REl4sw2O3UNu-62" value="pH波动下的PBAT对铜绿微囊藻中EPS保护作用的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-62" value="pH波动下的PBAT对铜绿微囊藻中EPS保护作用的影响" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
