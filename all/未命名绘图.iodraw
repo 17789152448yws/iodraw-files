@@ -274,8 +274,8 @@
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-48" value="原始PBAT的制备及表征" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="380" width="700" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-52" value="&lt;div&gt;PBAT 薄膜&lt;/div&gt;&lt;div&gt;剪碎&lt;/div&gt;&lt;div&gt;液氮冷冻脆化&lt;/div&gt;&lt;div&gt;冷冻研磨 / 机械研磨&lt;/div&gt;&lt;div&gt;筛分或沉降分级&lt;/div&gt;&lt;div&gt;Raw-PBAT fragments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="380" height="220" as="geometry" />
+        <mxCell id="E_J0uz-8hi5Pzh0kbOhq-52" value="&lt;div style=&quot;text-align: justify;&quot;&gt;PBAT 薄膜&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;剪碎&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;液氮冷冻脆化&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;冷冻研磨 / 机械研磨&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;筛分或沉降分级&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Raw-PBAT fragments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-53" value="表征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="420" width="320" height="30" as="geometry" />
