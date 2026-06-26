@@ -71,7 +71,7 @@
         <mxCell id="XKasdyiVz5NgMn03z-30-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-56">
           <mxGeometry y="53" width="180" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-62" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-61">
+        <mxCell id="XKasdyiVz5NgMn03z-30-62" value="&lt;p&gt;光暗周期&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-61">
           <mxGeometry width="90" height="54" as="geometry">
             <mxRectangle width="90" height="54" as="alternateBounds" />
           </mxGeometry>
@@ -93,9 +93,6 @@
           <mxGeometry x="90" width="90" height="53" as="geometry">
             <mxRectangle width="90" height="53" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XKasdyiVz5NgMn03z-30-44" target="XKasdyiVz5NgMn03z-30-61">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
