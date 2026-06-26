@@ -546,6 +546,11 @@
             <mxGeometry x="460" y="1680" width="300" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&quot;F:\实验方案\PBAT与EPS的相互作用\机制验证阶段.xlsx&quot;" link="&quot;F:\实验方案\PBAT与EPS的相互作用\机制验证阶段.xlsx&quot;" id="BZQy1eY8P7Pa9EngvGuI-32">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="620" y="1650" width="340" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
