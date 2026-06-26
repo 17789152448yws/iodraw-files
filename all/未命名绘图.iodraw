@@ -529,6 +529,9 @@
         <mxCell id="g8Fyidec5uRJs6gt0CTj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="g8Fyidec5uRJs6gt0CTj-48" source="g8Fyidec5uRJs6gt0CTj-21" target="g8Fyidec5uRJs6gt0CTj-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8Fyidec5uRJs6gt0CTj-49" target="BZQy1eY8P7Pa9EngvGuI-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-49" value="关键组合机制验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1770" width="120" height="30" as="geometry" />
         </mxCell>
@@ -551,6 +554,9 @@
             <mxGeometry x="450" y="1765" width="340" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
