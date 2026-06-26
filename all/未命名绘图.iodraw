@@ -165,12 +165,12 @@
         <mxCell id="XKasdyiVz5NgMn03z-30-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-78">
           <mxGeometry y="120" width="470" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-88" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-87">
+        <mxCell id="XKasdyiVz5NgMn03z-30-88" value="细胞密度" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-87">
           <mxGeometry width="90" height="100" as="geometry">
             <mxRectangle width="90" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKasdyiVz5NgMn03z-30-89" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-87">
+        <mxCell id="XKasdyiVz5NgMn03z-30-89" value="血球计数板/流式细胞仪" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="XKasdyiVz5NgMn03z-30-87">
           <mxGeometry x="90" width="80" height="100" as="geometry">
             <mxRectangle width="80" height="100" as="alternateBounds" />
           </mxGeometry>
