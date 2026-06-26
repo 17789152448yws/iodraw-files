@@ -10,6 +10,9 @@
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ou2KXWs189Wuq3OIUBNO-1" target="Ou2KXWs189Wuq3OIUBNO-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HEG6x2T29OUqqQdcnjYK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ou2KXWs189Wuq3OIUBNO-1" target="HEG6x2T29OUqqQdcnjYK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ou2KXWs189Wuq3OIUBNO-1" value="实验方案" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="500" width="120" height="60" as="geometry" />
         </mxCell>
@@ -491,7 +494,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HEG6x2T29OUqqQdcnjYK-2" value="&lt;p&gt;PBAT 是否改变 EPS 保护作用&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
