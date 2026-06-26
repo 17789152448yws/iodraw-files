@@ -623,6 +623,9 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-18" value="正常藻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2010" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-19" target="Nysrpe_2REl4sw2O3UNu-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-19" value="正常藻+原始颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2060" width="120" height="20" as="geometry" />
         </mxCell>
@@ -645,7 +648,7 @@
           <mxGeometry x="1140" y="2000" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-36" value="判断未经 pH 转化的 PBAT 原始颗粒对完整 EPS 藻细胞的基础影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="2060" width="313" height="20" as="geometry" />
+          <mxGeometry x="827" y="2060" width="363" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
