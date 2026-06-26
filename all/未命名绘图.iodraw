@@ -329,7 +329,7 @@
           <mxGeometry x="1070" y="950" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="E_J0uz-8hi5Pzh0kbOhq-74" value="PBATxEPS分层筛选" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1450" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="1450" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g8Fyidec5uRJs6gt0CTj-3" value="" style="group;align=center;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="290" y="1190" width="410" height="40" as="geometry" />
@@ -725,8 +725,11 @@
         <mxCell id="Nysrpe_2REl4sw2O3UNu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nysrpe_2REl4sw2O3UNu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nysrpe_2REl4sw2O3UNu-62" target="E_J0uz-8hi5Pzh0kbOhq-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nysrpe_2REl4sw2O3UNu-62" value="pH波动下的PBAT对铜绿微囊藻中EPS保护作用的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
