@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XKasdyiVz5NgMn03z-30-3" value="铜绿微囊藻昼夜 pH 曲线测定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="160" height="40" as="geometry" />
+          <mxGeometry x="90" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XKasdyiVz5NgMn03z-30-25" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="290" y="80" width="220" height="190" as="geometry" />
@@ -48,6 +48,9 @@
           <mxGeometry x="130" width="90" height="84" as="geometry">
             <mxRectangle width="90" height="84" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XKasdyiVz5NgMn03z-30-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XKasdyiVz5NgMn03z-30-3" target="XKasdyiVz5NgMn03z-30-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
