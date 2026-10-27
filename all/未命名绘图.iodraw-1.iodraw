@@ -58,13 +58,16 @@
         <mxCell id="7d6qZpbrFht0XhBQD9Br-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PBAT 与 EPS 接触后，哪些组分参与了界面作用，不同组分如何在水相和颗粒相关部分之间分配？&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="287.5" width="170" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="7d6qZpbrFht0XhBQD9Br-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-15">
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-15" target="7d6qZpbrFht0XhBQD9Br-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-15" value="重点的区分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-17" value="EPS 是否与 PBAT 发生可验证的结合或其他界面关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
