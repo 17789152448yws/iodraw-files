@@ -61,6 +61,10 @@
         <mxCell id="7d6qZpbrFht0XhBQD9Br-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-15" target="7d6qZpbrFht0XhBQD9Br-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="500" />
+              <mxPoint x="900" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-15" value="重点的区分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -72,8 +76,8 @@
         <mxCell id="7d6qZpbrFht0XhBQD9Br-18" value="不同组分的分配是否存在差异。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7d6qZpbrFht0XhBQD9Br-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-19" value="水相组分减少究竟来自相间转移，还是操作损失等其他原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
