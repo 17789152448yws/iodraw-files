@@ -14,6 +14,9 @@
             <mxPoint x="470" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-1" target="7d6qZpbrFht0XhBQD9Br-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-1" value="&lt;h1&gt;PBAT–EPS 界面相互作用是否通过改变 EPS 的组分分配、组成与结构，影响 EPS 对特定外部胁迫的缓解作用，并进一步改变铜绿微囊藻的生理响应。&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="180" height="290" as="geometry" />
         </mxCell>
@@ -79,10 +82,34 @@
           <mxGeometry x="930" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-18" value="不同组分的分配是否存在差异。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-19" value="水相组分减少究竟来自相间转移，还是操作损失等其他原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-27" target="7d6qZpbrFht0XhBQD9Br-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-27" target="7d6qZpbrFht0XhBQD9Br-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-27" value="&lt;h2&gt;界面作用是否伴随 EPS 组成与结构变化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="740" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-29" target="7d6qZpbrFht0XhBQD9Br-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-29" value="组成变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-30" value="结构变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-33" value="不同组分的相对比例和分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
