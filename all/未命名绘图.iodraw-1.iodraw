@@ -17,7 +17,7 @@
             <mxPoint x="480" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7d6qZpbrFht0XhBQD9Br-3" value="切入点：EPS 与 PBAT 接触后，其原有的胁迫缓解作用是否改变；如果改变，原因是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-3" value="&lt;h2&gt;切入点：EPS 与 PBAT 接触后，其原有的胁迫缓解作用是否改变；如果改变，原因是什么？&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-5" value="分离出的 EPS 与 PBAT 接触，研究二者直接相互作用带来的变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
