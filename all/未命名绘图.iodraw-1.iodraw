@@ -12,8 +12,16 @@
         <mxCell id="7d6qZpbrFht0XhBQD9Br-1" value="&lt;h1&gt;PBAT–EPS 界面相互作用是否通过改变 EPS 的组分分配、组成与结构，影响 EPS 对特定外部胁迫的缓解作用，并进一步改变铜绿微囊藻的生理响应。&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="180" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="7d6qZpbrFht0XhBQD9Br-3" value="切入点：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-3" target="7d6qZpbrFht0XhBQD9Br-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-3" value="切入点：EPS 与 PBAT 接触后，其原有的胁迫缓解作用是否改变；如果改变，原因是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
