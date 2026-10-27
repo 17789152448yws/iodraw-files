@@ -42,13 +42,16 @@
         <mxCell id="7d6qZpbrFht0XhBQD9Br-9" value="&lt;br&gt;&lt;h2&gt;PBAT–EPS 界面作用及其引起的组分分配变化。&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="370" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7d6qZpbrFht0XhBQD9Br-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-11">
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-11" target="7d6qZpbrFht0XhBQD9Br-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-11" value="回答问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-13" value="&#xa;PBAT 与 EPS 接触后，哪些组分参与了界面作用，不同组分如何在水相和颗粒相关部分之间分配？&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="240" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
