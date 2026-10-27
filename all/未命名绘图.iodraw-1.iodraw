@@ -17,13 +17,16 @@
             <mxPoint x="480" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-3" target="7d6qZpbrFht0XhBQD9Br-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-3" value="&lt;h2&gt;切入点：EPS 与 PBAT 接触后，其原有的胁迫缓解作用是否改变；如果改变，原因是什么？&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="60" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-5" value="分离出的 EPS 与 PBAT 接触，研究二者直接相互作用带来的变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7d6qZpbrFht0XhBQD9Br-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-6" value="活藻暴露于 PBAT 后，研究细胞分泌 EPS 的响应。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
