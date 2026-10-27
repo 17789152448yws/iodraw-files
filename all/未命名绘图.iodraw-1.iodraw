@@ -153,14 +153,17 @@
         <mxCell id="7d6qZpbrFht0XhBQD9Br-47" value="&lt;h2&gt;EPS 功能变化是否参与藻细胞响应的改变。&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1080" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="7d6qZpbrFht0XhBQD9Br-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d6qZpbrFht0XhBQD9Br-49" target="7d6qZpbrFht0XhBQD9Br-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-49" value="在相同外部胁迫设置下，过程对照 EPS 与 PBAT 接触后的 EPS，是否使藻细胞呈现不同的损伤、生理功能和恢复表现？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1080" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-51" value="膜完整性等指标反映损伤。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1085" width="120" height="35" as="geometry" />
+          <mxGeometry x="1070" y="1060" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-52" value="光合表现和生长反映生理后果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1130" width="120" height="35" as="geometry" />
+          <mxGeometry x="1080" y="1115" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7d6qZpbrFht0XhBQD9Br-53" value="氧化相关信号和抗氧化响应帮助解释应激过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1180" width="120" height="50" as="geometry" />
